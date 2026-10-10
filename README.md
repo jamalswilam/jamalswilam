@@ -1,33 +1,39 @@
-# Jamal Swilam
+# Jamal Swilam — جمال سويلم
 
-**Software Architect · Digital Transformation Consultant · Founder, [I Solutions Technology](https://www.isolutions-technology.com)**
+**Digital Transformation Consultant · Business Solutions Architect · Founder, [I Solutions Technology](https://www.isolutions-technology.com)**
+**استشاري التحول الرقمي · معماري حلول الأعمال · مؤسس I Solutions Technology**
 
-I help organizations fix the process first, then build the system that runs it — ERP, multi-tenant SaaS, and the integrations that connect them.
+I help companies improve their operations, turn their data into decisions, and build technology that supports growth — through Odoo, business intelligence, custom platforms and automation.
+
+أساعد الشركات على تحسين عملياتها، وتحويل بياناتها إلى قرارات، وبناء حلول تقنية تدعم النمو والتوسع؛ من خلال أودو، وذكاء الأعمال، والمنصات المخصصة والأتمتة.
 
 ---
 
-### What I work on
+## Three areas of work · ثلاثة محاور
 
-- **ERP architecture (Odoo)** — custom modules for HR, healthcare, legal practice, clinics, treasury and e-invoicing, built on Odoo 17–19.
-- **Multi-tenant SaaS** — tenant isolation, provisioning, billing and white-label delivery.
-- **Integrations** — omnichannel messaging, advertising platforms, e-invoicing networks, and third-party APIs.
-- **Automation & AI** — practical automation inside business workflows, not demos.
+| Area · المحور | What I do | What the business gets |
+|---|---|---|
+| **Odoo & business process development**<br>أودو وتطوير عمليات الأعمال | Process analysis, Odoo implementation and customization: accounting, sales, inventory, HR & payroll, and industry solutions (healthcare, legal, hospitality, projects) | Connected operations, less manual work, tighter control of cost and collections |
+| **Business intelligence & decision support**<br>ذكاء الأعمال ودعم القرار | KPIs, management dashboards, sales, profitability and operations analysis | A clear view of performance and decisions based on data |
+| **Custom platforms, AI & automation**<br>المنصات المخصصة والذكاء الاصطناعي والأتمتة | Multi-tenant SaaS, web and mobile apps, system integration, AI assistants and workflow automation | Services that scale, a better customer experience, faster processes |
 
-### How I approach a project
+## How I work · طريقة العمل
 
-1. Process before software.
-2. Data model before screens.
-3. Tests before "it works on my machine".
-4. Ship small, measure, then scale.
+1. Process before software — العملية قبل البرنامج
+2. Data model before screens — نموذج البيانات قبل الشاشات
+3. Tested before go-live — لا تشغيل بدون اختبار
+4. Ship small, measure, then scale — نبدأ صغيرًا، نقيس، ثم نتوسع
 
-### Stack
+## Stack
 
-`Python` · `Odoo` · `PostgreSQL` · `Go` · `TypeScript` · `Next.js` · `NestJS` · `Flutter` · `Docker`
+`Odoo` · `Python` · `PostgreSQL` · `Go` · `TypeScript` · `Next.js` · `NestJS` · `Flutter` · `Docker`
 
-### Selected work
+## Work
 
-Most of my work is private client and company IP. Public case studies will be listed here as they are cleared for publication.
+Client and product code is private and lives in the company organization, **[I Solutions Technology](https://github.com/I-Solutions-Technology)**. Public case studies will be added here once cleared for publication.
 
-### Contact
+أكواد العملاء والمنتجات خاصة ومحفوظة في حساب الشركة. ستُضاف دراسات الحالة العامة هنا بعد اعتماد نشرها.
 
-- Company: [isolutions-technology.com](https://www.isolutions-technology.com)
+## Contact · التواصل
+
+- Company · الشركة: [isolutions-technology.com](https://www.isolutions-technology.com)
