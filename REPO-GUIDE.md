@@ -8,27 +8,28 @@ GitHub has no folders for repositories. Organization comes from four things: **n
 
 `<prefix>-<product-or-client>-<component>` — lowercase, hyphens only.
 
-| Category | Prefix | Primary topic | Example name |
-|---|---|---|---|
-| SaaS | `saas-` | `saas` | `saas-clinic-api` |
-| Odoo | `odoo-` | `odoo` | `odoo-hr-payroll-eg` |
-| Vibe Coding | `vibe-` | `vibe-coding` | `vibe-crm-landing` |
-| AI & Automation | `ai-` | `ai-automation` | `ai-whatsapp-agent` |
-| BI & Dashboards | `bi-` | `business-intelligence` | `bi-sales-dashboard` |
-| Integrations | `int-` | `integration` | `int-odoo-shopify` |
-| Mobile | `app-` | `mobile` | `app-field-service` |
-| Templates & Tools | `kit-` | `starter-kit` | `kit-nextjs-saas` |
+| Category | Prefix | Category topic | Pillar topic | Example name |
+|---|---|---|---|---|
+| SaaS | `saas-` | `saas` | `axis-platforms-ai-automation` | `saas-clinic-api` |
+| Odoo | `odoo-` | `odoo` | `axis-odoo-erp` | `odoo-hr-payroll-eg` |
+| Vibe Coding | `vibe-` | `vibe-coding` | `axis-platforms-ai-automation` | `vibe-crm-landing` |
+| AI & Automation | `ai-` | `ai-automation` | `axis-platforms-ai-automation` | `ai-whatsapp-agent` |
+| BI & Dashboards | `bi-` | `business-intelligence` | `axis-business-intelligence` | `bi-sales-dashboard` |
+| Integrations | `int-` | `integration` | `axis-platforms-ai-automation` | `int-odoo-shopify` |
+| Mobile | `app-` | `mobile` | `axis-platforms-ai-automation` | `app-field-service` |
+| Templates & Tools | `kit-` | `starter-kit` | by content | `kit-nextjs-saas` |
 
 Odoo modules: put the target version in the topics (`odoo-17`, `odoo-18`) and keep one addon per folder at repo root so the repo works as an addons path.
 
 ## 2. Topics · الوسوم
 
-Every repo gets 3–6 topics:
+Every repo gets 4–7 topics:
 
-1. **Category topic** (from the table, required: the profile links filter on it)
-2. **Stack**: `python`, `nextjs`, `nestjs`, `go`, `flutter`, `postgresql`
-3. **Industry** when relevant: `healthcare`, `legal`, `hospitality`, `real-estate`
-4. **Status**: `production`, `mvp`, `prototype`, `archived`
+1. **Pillar topic**, exactly one, required (shared with the company profile): `axis-odoo-erp`, `axis-business-intelligence` or `axis-platforms-ai-automation`
+2. **Category topic** (from the table, required: the profile links filter on it)
+3. **Stack**: `python`, `nextjs`, `nestjs`, `go`, `flutter`, `postgresql`
+4. **Industry** when relevant: `healthcare`, `legal`, `hospitality`, `real-estate`
+5. **Status**: `production`, `mvp`, `prototype`, `archived`
 
 ## 3. Visibility rules · قواعد الظهور
 
@@ -48,7 +49,7 @@ Every repo gets 3–6 topics:
 ## 5. New repo checklist · قائمة إنشاء مستودع جديد
 
 - [ ] Name follows `<prefix>-<name>`
-- [ ] Category topic + stack + status topics added
+- [ ] Pillar topic + category topic + stack + status topics added
 - [ ] About description + website URL filled in
 - [ ] README: problem → solution → stack → screenshots → how to run
 - [ ] `.env.example` committed, no real secrets; secret scanning on

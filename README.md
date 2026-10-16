@@ -30,19 +30,25 @@ I help companies improve their operations, turn their data into decisions, and b
 
 ## Projects by category · المشاريع حسب التصنيف
 
-Each link lists every public repo carrying that topic, so the portfolio updates itself as repos are tagged.
-كل رابط يعرض المستودعات التي تحمل هذا الوسم، فيتحدّث المعرض تلقائيًا عند وسم أي مستودع جديد.
+Every repo carries two topics: a **pillar** (the three work areas, shared with the [company profile](https://github.com/I-Solutions-Technology)) and a **category**. Each link lists the public repos carrying that topic, so the portfolio updates itself as repos are tagged.
+كل مستودع يحمل وسمين: **المحور** (المحاور الثلاثة المشتركة مع صفحة الشركة) و**التصنيف**. كل رابط يعرض المستودعات التي تحمل هذا الوسم، فيتحدّث المعرض تلقائيًا.
 
-| Category · التصنيف | Prefix | Topic | Scope · النطاق |
-|---|---|---|---|
-| ☁️ **SaaS** | `saas-` | [`saas`](https://github.com/jamalswilam?tab=repositories&q=topic%3Asaas) | Multi-tenant platforms, billing, subscriptions — منصات متعددة المستأجرين واشتراكات |
-| 🟣 **Odoo** | `odoo-` | [`odoo`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aodoo) | Custom modules, industry add-ons, migrations — موديولات مخصصة وحلول قطاعية وترحيل إصدارات |
-| ⚡ **Vibe Coding** | `vibe-` | [`vibe-coding`](https://github.com/jamalswilam?tab=repositories&q=topic%3Avibe-coding) | AI-assisted MVPs and rapid prototypes — نماذج أولية سريعة مبنية بالذكاء الاصطناعي |
-| 🤖 **AI & Automation** | `ai-` | [`ai-automation`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aai-automation) | AI assistants, agents, workflow automation — مساعدات ذكية ووكلاء وأتمتة سير العمل |
-| 📊 **BI & Dashboards** | `bi-` | [`business-intelligence`](https://github.com/jamalswilam?tab=repositories&q=topic%3Abusiness-intelligence) | KPIs, management dashboards, reporting — مؤشرات أداء ولوحات إدارية وتقارير |
-| 🔌 **Integrations** | `int-` | [`integration`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aintegration) | APIs, connectors, middleware between systems — ربط الأنظمة وواجهات API |
-| 📱 **Mobile** | `app-` | [`mobile`](https://github.com/jamalswilam?tab=repositories&q=topic%3Amobile) | Flutter apps for customers and field teams — تطبيقات Flutter للعملاء وفرق العمل |
-| 🧰 **Templates & Tools** | `kit-` | [`starter-kit`](https://github.com/jamalswilam?tab=repositories&q=topic%3Astarter-kit) | Boilerplates, scripts, dev tooling — قوالب جاهزة وأدوات تطوير |
+| Pillar · المحور | Topic |
+|---|---|
+| Odoo & business processes · أودو وعمليات الأعمال | [`axis-odoo-erp`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aaxis-odoo-erp) |
+| Business intelligence · ذكاء الأعمال | [`axis-business-intelligence`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aaxis-business-intelligence) |
+| Platforms, AI & automation · المنصات والذكاء الاصطناعي والأتمتة | [`axis-platforms-ai-automation`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aaxis-platforms-ai-automation) |
+
+| Category · التصنيف | Prefix | Category topic | Pillar | Scope · النطاق |
+|---|---|---|---|---|
+| ☁️ **SaaS** | `saas-` | [`saas`](https://github.com/jamalswilam?tab=repositories&q=topic%3Asaas) | `axis-platforms-ai-automation` | Multi-tenant platforms, billing, subscriptions — منصات متعددة المستأجرين واشتراكات |
+| 🟣 **Odoo** | `odoo-` | [`odoo`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aodoo) | `axis-odoo-erp` | Custom modules, industry add-ons, migrations — موديولات مخصصة وحلول قطاعية وترحيل إصدارات |
+| ⚡ **Vibe Coding** | `vibe-` | [`vibe-coding`](https://github.com/jamalswilam?tab=repositories&q=topic%3Avibe-coding) | `axis-platforms-ai-automation` | AI-assisted MVPs and rapid prototypes — نماذج أولية سريعة مبنية بالذكاء الاصطناعي |
+| 🤖 **AI & Automation** | `ai-` | [`ai-automation`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aai-automation) | `axis-platforms-ai-automation` | AI assistants, agents, workflow automation — مساعدات ذكية ووكلاء وأتمتة سير العمل |
+| 📊 **BI & Dashboards** | `bi-` | [`business-intelligence`](https://github.com/jamalswilam?tab=repositories&q=topic%3Abusiness-intelligence) | `axis-business-intelligence` | KPIs, management dashboards, reporting — مؤشرات أداء ولوحات إدارية وتقارير |
+| 🔌 **Integrations** | `int-` | [`integration`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aintegration) | `axis-platforms-ai-automation` | APIs, connectors, middleware between systems — ربط الأنظمة وواجهات API |
+| 📱 **Mobile** | `app-` | [`mobile`](https://github.com/jamalswilam?tab=repositories&q=topic%3Amobile) | `axis-platforms-ai-automation` | Flutter apps for customers and field teams — تطبيقات Flutter للعملاء وفرق العمل |
+| 🧰 **Templates & Tools** | `kit-` | [`starter-kit`](https://github.com/jamalswilam?tab=repositories&q=topic%3Astarter-kit) | by content | Boilerplates, scripts, dev tooling — قوالب جاهزة وأدوات تطوير |
 
 Client and product code stays private in the company organization, **[I Solutions Technology](https://github.com/I-Solutions-Technology)**. Public repos and cleared case studies appear under the categories above.
 
