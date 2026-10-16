@@ -28,11 +28,41 @@ I help companies improve their operations, turn their data into decisions, and b
 
 `Odoo` · `Python` · `PostgreSQL` · `Go` · `TypeScript` · `Next.js` · `NestJS` · `Flutter` · `Docker`
 
-## Work
+## Projects by category · المشاريع حسب التصنيف
 
-Client and product code is private and lives in the company organization, **[I Solutions Technology](https://github.com/I-Solutions-Technology)**. Public case studies will be added here once cleared for publication.
+Every repo carries two topics: a **pillar** (the three work areas, shared with the [company profile](https://github.com/I-Solutions-Technology)) and a **category**. Each link lists the public repos carrying that topic, so the portfolio updates itself as repos are tagged.
+كل مستودع يحمل وسمين: **المحور** (المحاور الثلاثة المشتركة مع صفحة الشركة) و**التصنيف**. كل رابط يعرض المستودعات التي تحمل هذا الوسم، فيتحدّث المعرض تلقائيًا.
 
-أكواد العملاء والمنتجات خاصة ومحفوظة في حساب الشركة. ستُضاف دراسات الحالة العامة هنا بعد اعتماد نشرها.
+| Pillar · المحور | Topic |
+|---|---|
+| Odoo & business processes · أودو وعمليات الأعمال | [`axis-odoo-erp`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aaxis-odoo-erp) |
+| Business intelligence · ذكاء الأعمال | [`axis-business-intelligence`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aaxis-business-intelligence) |
+| Platforms, AI & automation · المنصات والذكاء الاصطناعي والأتمتة | [`axis-platforms-ai-automation`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aaxis-platforms-ai-automation) |
+
+| Category · التصنيف | Prefix | Category topic | Pillar | Scope · النطاق |
+|---|---|---|---|---|
+| ☁️ **SaaS** | `saas-` | [`saas`](https://github.com/jamalswilam?tab=repositories&q=topic%3Asaas) | `axis-platforms-ai-automation` | Multi-tenant platforms, billing, subscriptions — منصات متعددة المستأجرين واشتراكات |
+| 🟣 **Odoo** | `odoo-` | [`odoo`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aodoo) | `axis-odoo-erp` | Custom modules, industry add-ons, migrations — موديولات مخصصة وحلول قطاعية وترحيل إصدارات |
+| ⚡ **Vibe Coding** | `vibe-` | [`vibe-coding`](https://github.com/jamalswilam?tab=repositories&q=topic%3Avibe-coding) | `axis-platforms-ai-automation` | AI-assisted MVPs and rapid prototypes — نماذج أولية سريعة مبنية بالذكاء الاصطناعي |
+| 🤖 **AI & Automation** | `ai-` | [`ai-automation`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aai-automation) | `axis-platforms-ai-automation` | AI assistants, agents, workflow automation — مساعدات ذكية ووكلاء وأتمتة سير العمل |
+| 📊 **BI & Dashboards** | `bi-` | [`business-intelligence`](https://github.com/jamalswilam?tab=repositories&q=topic%3Abusiness-intelligence) | `axis-business-intelligence` | KPIs, management dashboards, reporting — مؤشرات أداء ولوحات إدارية وتقارير |
+| 🔌 **Integrations** | `int-` | [`integration`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aintegration) | `axis-platforms-ai-automation` | APIs, connectors, middleware between systems — ربط الأنظمة وواجهات API |
+| 📱 **Mobile** | `app-` | [`mobile`](https://github.com/jamalswilam?tab=repositories&q=topic%3Amobile) | `axis-platforms-ai-automation` | Flutter apps for customers and field teams — تطبيقات Flutter للعملاء وفرق العمل |
+| 🧰 **Templates & Tools** | `kit-` | [`starter-kit`](https://github.com/jamalswilam?tab=repositories&q=topic%3Astarter-kit) | by content | Boilerplates, scripts, dev tooling — قوالب جاهزة وأدوات تطوير |
+
+### Featured · مشاريع مختارة
+
+| Repo | Pillar · Category | What it is |
+|---|---|---|
+| [odoo-hr-payroll-eg](https://github.com/jamalswilam/odoo-hr-payroll-eg) | Odoo · Odoo | Egyptian HR localization for Odoo 17: national ID validation, social insurance data, tested on Odoo 17 + PostgreSQL 16 — توطين الموارد البشرية لمصر على أودو 17 |
+| [vibe-odoo-roi-calculator](https://github.com/jamalswilam/vibe-odoo-roi-calculator) | Platforms · Vibe Coding | Bilingual ROI calculator for ERP projects: savings, payback, 3-year ROI — حاسبة العائد على الاستثمار لمشاريع ERP |
+| [kit-odoo-docker](https://github.com/jamalswilam/kit-odoo-docker) | Odoo · Templates & Tools | Odoo + PostgreSQL dev environment in one command — بيئة تطوير أودو بأمر واحد |
+
+Client and product code stays private in the company organization, **[I Solutions Technology](https://github.com/I-Solutions-Technology)**. Public repos and cleared case studies appear under the categories above.
+
+أكواد العملاء والمنتجات خاصة ومحفوظة في حساب الشركة. المستودعات العامة ودراسات الحالة المعتمدة للنشر تظهر ضمن التصنيفات أعلاه.
+
+See [`REPO-GUIDE.md`](REPO-GUIDE.md) for naming, topics and the checklist for each new repo.
 
 ## Contact · التواصل
 
