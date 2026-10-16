@@ -50,6 +50,14 @@ Every repo carries two topics: a **pillar** (the three work areas, shared with t
 | 📱 **Mobile** | `app-` | [`mobile`](https://github.com/jamalswilam?tab=repositories&q=topic%3Amobile) | `axis-platforms-ai-automation` | Flutter apps for customers and field teams — تطبيقات Flutter للعملاء وفرق العمل |
 | 🧰 **Templates & Tools** | `kit-` | [`starter-kit`](https://github.com/jamalswilam?tab=repositories&q=topic%3Astarter-kit) | by content | Boilerplates, scripts, dev tooling — قوالب جاهزة وأدوات تطوير |
 
+### Featured · مشاريع مختارة
+
+| Repo | Pillar · Category | What it is |
+|---|---|---|
+| [odoo-hr-payroll-eg](https://github.com/jamalswilam/odoo-hr-payroll-eg) | Odoo · Odoo | Egyptian HR localization for Odoo 17: national ID validation, social insurance data, tested on Odoo 17 + PostgreSQL 16 — توطين الموارد البشرية لمصر على أودو 17 |
+| [vibe-odoo-roi-calculator](https://github.com/jamalswilam/vibe-odoo-roi-calculator) | Platforms · Vibe Coding | Bilingual ROI calculator for ERP projects: savings, payback, 3-year ROI — حاسبة العائد على الاستثمار لمشاريع ERP |
+| [kit-odoo-docker](https://github.com/jamalswilam/kit-odoo-docker) | Odoo · Templates & Tools | Odoo + PostgreSQL dev environment in one command — بيئة تطوير أودو بأمر واحد |
+
 Client and product code stays private in the company organization, **[I Solutions Technology](https://github.com/I-Solutions-Technology)**. Public repos and cleared case studies appear under the categories above.
 
 أكواد العملاء والمنتجات خاصة ومحفوظة في حساب الشركة. المستودعات العامة ودراسات الحالة المعتمدة للنشر تظهر ضمن التصنيفات أعلاه.
