@@ -28,11 +28,27 @@ I help companies improve their operations, turn their data into decisions, and b
 
 `Odoo` · `Python` · `PostgreSQL` · `Go` · `TypeScript` · `Next.js` · `NestJS` · `Flutter` · `Docker`
 
-## Work
+## Projects by category · المشاريع حسب التصنيف
 
-Client and product code is private and lives in the company organization, **[I Solutions Technology](https://github.com/I-Solutions-Technology)**. Public case studies will be added here once cleared for publication.
+Each link lists every public repo carrying that topic, so the portfolio updates itself as repos are tagged.
+كل رابط يعرض المستودعات التي تحمل هذا الوسم، فيتحدّث المعرض تلقائيًا عند وسم أي مستودع جديد.
 
-أكواد العملاء والمنتجات خاصة ومحفوظة في حساب الشركة. ستُضاف دراسات الحالة العامة هنا بعد اعتماد نشرها.
+| Category · التصنيف | Prefix | Topic | Scope · النطاق |
+|---|---|---|---|
+| ☁️ **SaaS** | `saas-` | [`saas`](https://github.com/jamalswilam?tab=repositories&q=topic%3Asaas) | Multi-tenant platforms, billing, subscriptions — منصات متعددة المستأجرين واشتراكات |
+| 🟣 **Odoo** | `odoo-` | [`odoo`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aodoo) | Custom modules, industry add-ons, migrations — موديولات مخصصة وحلول قطاعية وترحيل إصدارات |
+| ⚡ **Vibe Coding** | `vibe-` | [`vibe-coding`](https://github.com/jamalswilam?tab=repositories&q=topic%3Avibe-coding) | AI-assisted MVPs and rapid prototypes — نماذج أولية سريعة مبنية بالذكاء الاصطناعي |
+| 🤖 **AI & Automation** | `ai-` | [`ai-automation`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aai-automation) | AI assistants, agents, workflow automation — مساعدات ذكية ووكلاء وأتمتة سير العمل |
+| 📊 **BI & Dashboards** | `bi-` | [`business-intelligence`](https://github.com/jamalswilam?tab=repositories&q=topic%3Abusiness-intelligence) | KPIs, management dashboards, reporting — مؤشرات أداء ولوحات إدارية وتقارير |
+| 🔌 **Integrations** | `int-` | [`integration`](https://github.com/jamalswilam?tab=repositories&q=topic%3Aintegration) | APIs, connectors, middleware between systems — ربط الأنظمة وواجهات API |
+| 📱 **Mobile** | `app-` | [`mobile`](https://github.com/jamalswilam?tab=repositories&q=topic%3Amobile) | Flutter apps for customers and field teams — تطبيقات Flutter للعملاء وفرق العمل |
+| 🧰 **Templates & Tools** | `kit-` | [`starter-kit`](https://github.com/jamalswilam?tab=repositories&q=topic%3Astarter-kit) | Boilerplates, scripts, dev tooling — قوالب جاهزة وأدوات تطوير |
+
+Client and product code stays private in the company organization, **[I Solutions Technology](https://github.com/I-Solutions-Technology)**. Public repos and cleared case studies appear under the categories above.
+
+أكواد العملاء والمنتجات خاصة ومحفوظة في حساب الشركة. المستودعات العامة ودراسات الحالة المعتمدة للنشر تظهر ضمن التصنيفات أعلاه.
+
+See [`REPO-GUIDE.md`](REPO-GUIDE.md) for naming, topics and the checklist for each new repo.
 
 ## Contact · التواصل
 
